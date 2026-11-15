@@ -111,9 +111,9 @@ int main() {
     cout << "\nTotal de refeicoes: " << ThungTotal << "/15" << endl;
 
     if (ThungTodosComeram && ThungTotal == 15) {
-        cout << "[OK] Todos conseguiram comer 3 vezes!" << endl;
+        cout << "[OK] Todos conseguiram ficar comidos!!" << endl;
     } else {
-        cout << "[ERRO] Nem todos conseguiram comer." << endl;
+        cout << "[ERRO] Nem todos conseguiram ficar comidos.." << endl;
     }
 
     cout << "Fim do programa!" << endl;
