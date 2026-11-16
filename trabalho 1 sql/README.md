@@ -1,6 +1,6 @@
 # Trabalho 1 – Remodelagem do Banco de Dados da Loja Cerrado
 
-## 1. Introdução
+## 1. Introdução!
 
 Neste trabalho será feita uma remodelagem do banco de dados da Loja Cerrado, utilizando como base os conteúdos apresentados nos slides das aulas.
 
